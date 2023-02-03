@@ -140,6 +140,15 @@ img {
 
 /* media */
 
+/* desktop */
+@media screen and (min-width: 1200px) {
+    
+    .container {
+        max-width: 1200px;
+    }
+}
+/* /desktop */
+
 /* tablet */
 @media screen and (max-width: 768px) {
     
