@@ -135,17 +135,19 @@ img {
     width: 100%;
 }
 
+/* /fix */
+
+
 /* media */
 
 /* tablet */
-
 @media screen and (max-width: 768px) {
     
     
 }
+/* /tablet */
 
 /* smartphone  */
-
 @media screen and (max-width: 480px) {
 
     .why-us .container {
@@ -195,3 +197,4 @@ img {
     }
 
 }
+/* /smartphone */
